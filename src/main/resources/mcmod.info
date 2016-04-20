@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wmt",
+  "name": "Bring your kids to work day mod",
+  "description": "Adding spark item",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["rlichte"],
+  "credits": "GeC Walmartlabs",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
