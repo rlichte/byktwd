@@ -77,8 +77,8 @@ public class SparkMain
     @EventHandler
     public void registerCommands(FMLServerStartingEvent event) 
     {
-        //event.registerServerCommand(new FlamingPigs());
-        //event.registerServerCommand(new BlockFillCommand());
+        event.registerServerCommand(new FlamingPigs());
+        event.registerServerCommand(new BlockFillCommand());
     }
 
 }

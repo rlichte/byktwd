@@ -129,7 +129,7 @@ public class BlockFillCommand implements ICommand {
     public List<String> getCommandAliases()
     {
         // TODO Auto-generated method stub
-        return null;
+        return aliases;
     }
 
 

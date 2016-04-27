@@ -88,8 +88,7 @@ public class FlamingPigs implements ICommand {
     @Override
     public List<String> getCommandAliases()
     {
-        // TODO Auto-generated method stub
-        return null;
+        return aliases;
     }
 
     @Override
